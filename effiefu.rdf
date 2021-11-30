@@ -10,7 +10,7 @@
   <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
 </foaf:PersonalProfileDocument>
 <foaf:Person rdf:ID="me">
-<foaf:name>玫青 傅</foaf:name>
+<foaf:name>玫青傅</foaf:name>
 <foaf:title>Ms.</foaf:title>
 <foaf:givenname>玫青</foaf:givenname>
 <foaf:family_name>傅</foaf:family_name>
