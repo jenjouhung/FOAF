@@ -10,11 +10,7 @@
   <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
 </foaf:PersonalProfileDocument>
 <foaf:Person rdf:ID="me">
-<foaf:name>玫青傅</foaf:name>
-<foaf:title>Ms.</foaf:title>
-<foaf:givenname>玫青</foaf:givenname>
-<foaf:family_name>傅</foaf:family_name>
-<foaf:nick>青仔</foaf:nick>
+      
 <foaf:mbox_sha1sum>823c0a05ea1e964021715fc6a4f45ac8b2ff9c26</foaf:mbox_sha1sum>
 <foaf:workplaceHomepage rdf:resource="https://www.dila.edu.tw/"/>
 <foaf:schoolHomepage rdf:resource="https://www.dila.edu.tw/"/></foaf:Person>
