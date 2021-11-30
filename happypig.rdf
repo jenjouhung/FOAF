@@ -26,5 +26,40 @@
 <foaf:Person>
 <foaf:name>洪振洲</foaf:name>
 <foaf:mbox_sha1sum>71034b35fbf5087f6711fdd18d9524b1c4281ff0</foaf:mbox_sha1sum>
-<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/joey.rdf#me"/></foaf:Person></foaf:knows></foaf:Person>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/joey.rdf#me"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>釋廣慧</foaf:name>
+<foaf:mbox_sha1sum>7e25a0211d6afa77a0637468ed8162aeef3864c5</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/ycc.rdf#me"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>陳建宏</foaf:name>
+<foaf:mbox_sha1sum>53366fc555d10d9b331545f60c4f8d331f90f868</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/KC_foaf.rdf#me"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>鍾寧</foaf:name>
+<foaf:mbox_sha1sum>cc1bd441125462920a02eae69e08b2d127821362</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/ning.rdf#me"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>黃淑齡</foaf:name>
+<foaf:mbox_sha1sum>e617388869067d0fa04a32656314c7ef0ae46666</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/slhuang.rdf#me"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>釋顯知</foaf:name>
+<foaf:mbox_sha1sum>097f35d07c7e1a6f2c2e814d4ce28058c3224ab2</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/ZhiZhi.rdf#me"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Elenda</foaf:name>
+<foaf:mbox_sha1sum>7cc473c3646c9170eb9e8a31e43b6234bd76c3be</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/EH.rdf.txt#me"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>林靜慧</foaf:name>
+<foaf:mbox_sha1sum>bbc14a26d0f0f417b8555ad69ff539ae7d4abd9c</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/ljh.rdf#me"/></foaf:Person></foaf:knows></foaf:Person>
 </rdf:RDF>
