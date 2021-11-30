@@ -21,5 +21,10 @@
 <foaf:phone rdf:resource="tel:+886-2-24980707"/>
 <foaf:workplaceHomepage rdf:resource="https://bs.dila.edu.tw/%E7%A2%A9%E5%A3%AB%E7%8F%AD/"/>
 <foaf:workInfoHomepage rdf:resource="https://bs.dila.edu.tw/"/>
-<foaf:schoolHomepage rdf:resource="https://www.nthu.edu.tw/"/></foaf:Person>
+<foaf:schoolHomepage rdf:resource="https://www.nthu.edu.tw/"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>洪振洲</foaf:name>
+<foaf:mbox_sha1sum>71034b35fbf5087f6711fdd18d9524b1c4281ff0</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/joey.rdf#me"/></foaf:Person></foaf:knows></foaf:Person>
 </rdf:RDF>
