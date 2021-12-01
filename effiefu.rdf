@@ -14,8 +14,8 @@
 <foaf:title>Ms.</foaf:title>
 <foaf:givenname>玫青</foaf:givenname>
 <foaf:family_name>傅</foaf:family_name>
-<foaf:nick>青仔</foaf:nick>
 <foaf:mbox_sha1sum>823c0a05ea1e964021715fc6a4f45ac8b2ff9c26</foaf:mbox_sha1sum>
-<foaf:workplaceHomepage rdf:resource="https://www.dila.edu.tw/"/>
+<foaf:phone rdf:resource="tel:0933127631"/>
+<foaf:workInfoHomepage rdf:resource="https://lic.dila.edu.tw/digital_archives_projects#/tab1/cbeta"/>
 <foaf:schoolHomepage rdf:resource="https://www.dila.edu.tw/"/></foaf:Person>
 </rdf:RDF>
