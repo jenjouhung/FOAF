@@ -11,17 +11,17 @@
 </foaf:PersonalProfileDocument>
 <foaf:Person rdf:ID="me">
 <foaf:name>怡輝 吳</foaf:name>
-<foaf:title>Mr</foaf:title>
+<foaf:title>Mr.</foaf:title>
 <foaf:givenname>怡輝</foaf:givenname>
 <foaf:family_name>吳</foaf:family_name>
 <foaf:nick>happypig</foaf:nick>
 <foaf:mbox_sha1sum>9710c824fcf068f366b543fc67030ba384efeee2</foaf:mbox_sha1sum>
 <foaf:homepage rdf:resource="https://www.facebook.com/happypig.tw"/>
-<foaf:depiction rdf:resource="https://photos.app.goo.gl/sfCny6eqdLQVxhFf9"/>
-<foaf:phone rdf:resource="tel:+886-2-24980707"/>
-<foaf:workplaceHomepage rdf:resource="https://bs.dila.edu.tw/%E7%A2%A9%E5%A3%AB%E7%8F%AD/"/>
+<foaf:depiction rdf:resource="https://photos.google.com/share/AF1QipNcIb9S5Of75DkThbRRYfiqni3G0JlrPzseQX4xwg_3q--QSp-nJZCYagsKNwgKdQ/photo/AF1QipPOjUX9TMJUSNVd2u4rJ0dKmX1Qv4WHUjxyLLfy?key=N2RVelU4OW40ZWtFX2VRQ2RqaEs5YUR1cDN0enRB"/>
+<foaf:phone rdf:resource="tel:0936896932"/>
+<foaf:workplaceHomepage rdf:resource="https://www.dila.edu.tw/"/>
 <foaf:workInfoHomepage rdf:resource="https://bs.dila.edu.tw/"/>
-<foaf:schoolHomepage rdf:resource="https://www.nthu.edu.tw/"/>
+<foaf:schoolHomepage rdf:resource="https://www.nthu.edu.tw"/>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>洪振洲</foaf:name>
@@ -32,6 +32,11 @@
 <foaf:name>釋廣慧</foaf:name>
 <foaf:mbox_sha1sum>7e25a0211d6afa77a0637468ed8162aeef3864c5</foaf:mbox_sha1sum>
 <rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/ycc.rdf#me"/></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>傅玫青</foaf:name>
+<foaf:mbox_sha1sum>f52e25180ab27f8dd7306c470e5228b19fe8b4a3</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/effiefu.rdf#me"/></foaf:Person></foaf:knows>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>陳建宏</foaf:name>
@@ -62,9 +67,4 @@
 <foaf:name>林靜慧</foaf:name>
 <foaf:mbox_sha1sum>bbc14a26d0f0f417b8555ad69ff539ae7d4abd9c</foaf:mbox_sha1sum>
 <rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/ljh.rdf#me"/></foaf:Person></foaf:knows></foaf:Person>
-<foaf:knows>
-<foaf:Person>
-<foaf:name>傅玫青</foaf:name>
-<foaf:mbox_sha1sum>f52e25180ab27f8dd7306c470e5228b19fe8b4a3</foaf:mbox_sha1sum>
-<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/effiefu.rdf#me"/></foaf:Person></foaf:knows></foaf:Person>
 </rdf:RDF>
