@@ -1,0 +1,41 @@
+{
+  "self-museum": {
+    "externalInfo": {}
+  },
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://app.cultural.jp/self-museum/iiif/collection/top",
+  "@type": "sc:Collection",
+  "label": "",
+  "viewingHint": "top",
+  "description": "Description of Collection",
+  "attribution": "Provided by Self Museum",
+  "collections": [
+    {
+      "@id": "http://app.cultural.jp/self-museum/iiif/collection/room/0",
+      "@type": "sc:Collection",
+      "label": "",
+      "manifests": [
+        {
+          "@id": "https://doraemon.dila.edu.tw/omekas/iiif/2/19/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://doraemon.dila.edu.tw/omekas/iiif/2/17/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://doraemon.dila.edu.tw/omekas/iiif/2/15/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://doraemon.dila.edu.tw/omekas/iiif/2/13/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://doraemon.dila.edu.tw/omekas/iiif/2/11/manifest",
+          "@type": "sc:Manifest"
+        }
+      ]
+    }
+  ]
+}
