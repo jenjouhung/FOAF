@@ -1,0 +1,49 @@
+{
+  "self-museum": {
+    "externalInfo": {}
+  },
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://app.cultural.jp/self-museum/iiif/collection/top",
+  "@type": "sc:Collection",
+  "label": "",
+  "viewingHint": "top",
+  "description": "Description of Collection",
+  "attribution": "Provided by Self Museum",
+  "collections": [
+    {
+      "@id": "http://app.cultural.jp/self-museum/iiif/collection/room/0",
+      "@type": "sc:Collection",
+      "label": "新創小故宮",
+      "manifests": [
+        {
+          "@id": "https://omeka.dila.edu.tw/iiif/2/39/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://omeka.dila.edu.tw/iiif/2/65/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://omeka.dila.edu.tw/iiif/2/71/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://omeka.dila.edu.tw/iiif/2/41/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://omeka.dila.edu.tw/iiif/2/45/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://omeka.dila.edu.tw/iiif/2/69/manifest",
+          "@type": "sc:Manifest"
+        },
+        {
+          "@id": "https://omeka.dila.edu.tw/iiif/2/67/manifest",
+          "@type": "sc:Manifest"
+        }
+      ]
+    }
+  ]
+}
