@@ -29,8 +29,7 @@
 <foaf:knows>
   <foaf:Person>
     <foaf:name>林淑敏</foaf:name>
-    <rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/mina.rdf"/></foaf:Person></foaf:knows>
-<foaf:knows>
-
+    <rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/mina.rdf"/></foaf:Person>
+</foaf:knows>
 </foaf:Person>
 </rdf:RDF>
