@@ -25,5 +25,12 @@
 <foaf:Person>
 <foaf:name>傅玫青</foaf:name>
 <foaf:mbox_sha1sum>f52e25180ab27f8dd7306c470e5228b19fe8b4a3</foaf:mbox_sha1sum>
-<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/effiefu.rdf#me"/></foaf:Person></foaf:knows></foaf:Person>
+<rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/effiefu.rdf#me"/></foaf:Person></foaf:knows>
+<foaf:knows>
+  <foaf:Person>
+    <foaf:name>林淑敏</foaf:name>
+    <rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/jenjouhung/FOAF/main/mina.rdf"/></foaf:Person></foaf:knows>
+<foaf:knows>
+
+</foaf:Person>
 </rdf:RDF>
